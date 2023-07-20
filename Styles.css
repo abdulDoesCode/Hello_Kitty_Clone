@@ -251,9 +251,9 @@ main {
 /* Custom styles for the text box */
 #text-area {
   font-family: 'Tektur', monospace;
-  font-size: 20px; /* Adjust the text size as per your preference */
+  font-size: 18px; /* Adjust the text size as per your preference */
   width: 60vw; /* Increase the width for a larger box */
-  height: 15vw; /* Increase the height for a larger box */
+  height: 20vw; /* Increase the height for a larger box */
   padding: 0 8px;
   background-color: #fbf6f6;
   color: rgb(0, 0, 0);
