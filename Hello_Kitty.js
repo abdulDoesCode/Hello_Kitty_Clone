@@ -18,10 +18,3 @@ document.getElementById("btn").addEventListener("click", function() {
     }
     showImage();
 })
-<<<<<<< Updated upstream
-
-// https://drive.google.com/file/d/1wulbYuBD7-Dy5Ac9158NTNDtunXmiuJn/view?usp=sharing
-// https://drive.google.com/file/d/1TzcM3fSu0_Xwh_rHsLlqutjcsdOfIiD9/view?usp=sharing
-// https://drive.google.com/file/d/1-H9ngRa7FhIW15rkzKawILP-f8eYYAKh/view?usp=sharing
-=======
->>>>>>> Stashed changes
