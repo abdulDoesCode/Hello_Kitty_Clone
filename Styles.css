@@ -255,9 +255,10 @@ main {
   width: 60vw; /* Increase the width for a larger box */
   height: 20vw; /* Increase the height for a larger box */
   padding: 0 8px;
+  padding-top: 20px;
   background-color: #fbf6f6;
-  color: rgb(0, 0, 0);
-  border: 2px solid rgb(8, 8, 8);
+  color: black;
+  border: 0;
   border-radius: 4px;
   outline: none;
   resize: none; /* Disable textarea resizing */
