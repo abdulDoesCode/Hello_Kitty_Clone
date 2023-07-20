@@ -208,6 +208,8 @@ main {
   justify-content: center;
   align-items: center;
   height: 300px; /* Adjust the height as needed */
+  margin: 0;
+  padding: 0;
 }
 
 .container-image img {
@@ -218,7 +220,8 @@ main {
 .container h2 {
   background: var(--clr-black);
   color: var(--clr-white);
-  padding: 1rem;
+  padding: 0.5rem;
+  padding-bottom: 0;
   border-radius: var(--radius);
   margin-bottom: 2.5rem;
 }
@@ -244,4 +247,22 @@ main {
 .btn-hero:hover {
   color: var(--clr-white);
   background: var(--clr-black);
+}
+
+/* Custom styles for the text box */
+#text-area {
+  font-family: "Courier New", monospace;
+  font-size: 12px; /* Adjust the text size as per your preference */
+  width: 60vw; /* Increase the width for a larger box */
+  height: 13vw; /* Increase the height for a larger box */
+  padding: 0 8px;
+  background-color: #fbf6f6;
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(8, 8, 8);
+  border-radius: 4px;
+  outline: none;
+  resize: none; /* Disable textarea resizing */
+  text-align: center; /* Set the text alignment to left */
+  margin-bottom: 10px; /* Add some spacing below the text box */
+  margin-top: 0;
 }
