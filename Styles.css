@@ -253,7 +253,7 @@ main {
   font-family: 'Tektur', monospace;
   font-size: 18px; /* Adjust the text size as per your preference */
   width: 60vw; /* Increase the width for a larger box */
-  height: 20vw; /* Increase the height for a larger box */
+  height: 10vw; /* Increase the height for a larger box */
   padding: 0 8px;
   padding-top: 20px;
   background-color: #fbf6f6;
